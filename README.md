@@ -23,12 +23,12 @@
 
 ## Prerequisites
 
-- JAVA
+- JAVA VERSION 8
     
 
 ## Usage
 
-- npm run start
+- click to 'gradle.bat'
 
 
 ## Author
